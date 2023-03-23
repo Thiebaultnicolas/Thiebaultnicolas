@@ -1,3 +1,5 @@
-salut je suis test mon README
+salut je test mon README
 
-# ![levi](https://github.com/Thiebaultnicolas/Thiebaultnicolas/blob/main/Liva%C3%AF-miniature.png)
+<p align="center">
+  <img src="https://github.com/Thiebaultnicolas/Thiebaultnicolas/blob/main/Livaï-miniature.png" width="15%">
+</p>
