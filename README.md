@@ -6,9 +6,9 @@
 <span> Si vous êtes arrivé jusque ici, vous pourriez bien prendre quelques minutes pour en apprendre un peu plus sur moi ?</span>
 <h3> Allez c'est parti ! </h3>
 
-<img src="">
+<img src="https://github.com/Thiebaultnicolas/Thiebaultnicolas/blob/main/mikasa.png">
  
 <p align="center">
- <img src="" width="20%">
+ <img src="https://github.com/Thiebaultnicolas/Thiebaultnicolas/blob/main/mikasa.png" width="20%">
 </p>
 
