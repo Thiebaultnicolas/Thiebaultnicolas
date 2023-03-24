@@ -1,14 +1,14 @@
-<head>
-  <link href="https://fonts.googleapis.com/css2?family=Delicious+Handdrawn&display=swap" rel="stylesheet">
-</head>
 
-<h1>
- <span style="font-family: 'Delicious Handdrawn', cursive;"> salut je test mon README</span>
+<h1 align="center">
+ <span style="font-family: 'Delicious Handdrawn', cursive;"> Bienvenue dans la faille...</span>
 </h1>
 
-<img src="https://github.com/Thiebaultnicolas/Thiebaultnicolas/blob/main/banner%20github.jpeg">
+<span> Si vous êtes arrivé jusque ici, vous pourriez bien prendre quelques minutes pour en apprendre un peu plus sur moi ?</span>
+<h3> Allez c'est parti ! </h3>
+
+<img src="">
  
 <p align="center">
- <img src="https://github.com/Thiebaultnicolas/Thiebaultnicolas/blob/main/Livaï-miniature.png" width="20%">
+ <img src="" width="20%">
 </p>
 
