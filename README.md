@@ -33,7 +33,7 @@ pour la technologie React. :computer:</p>
 &nbsp;
 
 ----------------
-<img align="right" src="https://github.com/Thiebaultnicolas/Thiebaultnicolas/blob/main/nico%202.png" width="25%">
+<img align="left" src="https://github.com/Thiebaultnicolas/Thiebaultnicolas/blob/main/nico%202.png" width="25%">
 
 &nbsp;
 
