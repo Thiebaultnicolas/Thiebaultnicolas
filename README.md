@@ -17,7 +17,7 @@
 &nbsp;
 
 <p> Moi c'est Nicolas, <br>
-j'habite en ariège, l'endroit révé pour un picard non ? Des montagnes et du soleil !:sunrise_over_mountains:</p>
+j'habite en ariège, l'endroit rêvé pour un picard non ? Des montagnes et du soleil !:sunrise_over_mountains:</p>
 &nbsp;
 
 <p>Ancien dessinateur projeteur, je me suis fasciné<br> 
