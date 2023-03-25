@@ -5,7 +5,7 @@
 
 
  ``` 
-  Erreur: Si vous êtes arrivé jusque ici, vous pourriez bien prendre quelques minutes pour en apprendre un peu plus sur moi ?.
+  Erreur: Si vous êtes arrivé jusque ici, vous pourriez bien prendre quelques minutes pour en apprendre un peu plus sur moi ?
  ```
 
 <h3 align="center"> 
