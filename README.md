@@ -51,7 +51,7 @@ organisé et capable de travailler de manière autonome.:brain:</p>
 <p>Actuellement, je suis à la recherche d'une alternance pour <br>
 suivre une formation de développeur d'application JavaScript React.<br>
 Mon objectif est de me perfectionner dans ce domaine et d'acquérir <br> 
-les compétences nécessaires pour devenir un développeur d'application<br>
+les compétences pour devenir un développeur d'application<br>
 React compétent et efficace.:open_book:</p>
 
 &nbsp;
