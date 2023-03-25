@@ -43,7 +43,7 @@ j'ai développé une grande autonomie. :muscle:
 &nbsp;
 
 En effet, j'ai su me débrouiller pour trouver les informations <br>
-dont j'avais besoin en faisant des recherches sur internet ou autre <br> 
+dont j'avais besoin en faisant des recherches sur internet ou autre. <br> 
 Je suis donc très organisé et capable de travailler de manière autonome. :brain:</p>
 
 <p>Actuellement, je suis à la recherche d'une alternance pour <br>
