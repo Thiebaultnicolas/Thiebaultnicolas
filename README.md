@@ -33,12 +33,12 @@ pour la technologie React. :computer:</p>
 &nbsp;
 
 ----------------
-<img align="left" src="https://github.com/Thiebaultnicolas/Thiebaultnicolas/blob/main/nico%202.png" width="25%">
+<img align="right" src="https://github.com/Thiebaultnicolas/Thiebaultnicolas/blob/main/nico%202.png" width="25%">
 
 &nbsp;
 
 <p>Grâce à ma formation à temps plein qui s'est déroulée <br> 
-avec succès je suis aujourd'hui habitué au télétravail et <br> 
+avec succès, je suis aujourd'hui habitué au télétravail et <br> 
 j'ai développé une grande autonomie. :muscle:
 &nbsp;
 
