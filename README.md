@@ -3,8 +3,13 @@
  <span style="font-family: 'Delicious Handdrawn', cursive;"> Bienvenue dans la faille du développeur...</span>
 </h1>
 
-<span> Si vous êtes arrivé jusque ici, vous pourriez bien prendre quelques minutes pour en apprendre un peu plus sur moi ?</span>
-<h3> Allez c'est parti ! </h3>
+<p align="center"> 
+ Si vous êtes arrivé jusque ici, vous pourriez bien prendre quelques minutes pour en apprendre un peu plus sur moi ?
+</p>
+
+<h3 align="center"> 
+ 30 secondes avant l'apparition de mes stacks ! 
+</h3>
 
 <img src="https://github.com/Thiebaultnicolas/Thiebaultnicolas/blob/main/mikasa.png">
  
