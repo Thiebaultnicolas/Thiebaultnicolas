@@ -42,11 +42,9 @@ avec succès je suis aujourd'hui habitué au télétravail et <br>
 j'ai développé une grande autonomie.:muscle:
 &nbsp;
 
-En effet, malgré le fait que je ne voyais mon mentor <br>
-qu'une fois par semaine, j'ai su me débrouiller pour <br>
-trouver les informations dont j'avais besoin en faisant <br>
-des recherches sur internet ou autre. Je suis donc très <br>
-organisé et capable de travailler de manière autonome.:brain:</p>
+En effet,j'ai su me débrouiller pour trouver les informations <br>
+dont j'avais besoin en faisant des recherches sur internet ou autre <br> 
+Je suis donc très organisé et capable de travailler de manière autonome.:brain:</p>
 
 <p>Actuellement, je suis à la recherche d'une alternance pour <br>
 suivre une formation de développeur d'application JavaScript React.<br>
