@@ -12,7 +12,7 @@
 </h3>
 
 ----------------
-<img align="left" src="https://github.com/Thiebaultnicolas/Thiebaultnicolas/blob/main/levi-nico2.jpg" width="30%">
+<img align="left" src="https://github.com/Thiebaultnicolas/Thiebaultnicolas/blob/main/mickasa%201.jpg" width="30%">
 
 &nbsp;
 
