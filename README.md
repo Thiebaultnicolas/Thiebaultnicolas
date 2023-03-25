@@ -6,6 +6,10 @@
 <p align="center"> 
  Si vous êtes arrivé jusque ici, vous pourriez bien prendre quelques minutes pour en apprendre un peu plus sur moi ?
 </p>
+ ``` 
+  Error: Too many re-renders. God limits number of
+  renders to prevent an infinite loop of stupidity.
+  ```
 
 <h3 align="center"> 
  30 secondes avant l'apparition de mes stacks ! :crossed_swords: 
