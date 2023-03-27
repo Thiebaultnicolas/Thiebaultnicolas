@@ -9,7 +9,7 @@
  ```
 
 <h3 align="center"> 
- 30 secondes avant l'apparition de mes stacks ! :crossed_swords: 
+ 30 secondes avant l'apparition des stacks ! :crossed_swords: 
 </h3>
 
 ----------------
@@ -82,7 +82,9 @@ allier les plaisirs de la vie à la technologie ! :joystick:</p>
 
 
 ----------------
-
+<h3 align="center"> 
+ Des stacks sont apparus ! :hammer_and_wrench: 
+</h3>
 <p align="center">
  <img  src="https://github.com/Thiebaultnicolas/Thiebaultnicolas/blob/main/nico%202.png" width="25%">
 </p>
@@ -104,7 +106,9 @@ Back-End
 <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="5%">
  
 </div>
-
+<br>
+<br>
+<br>
 <div align="center">
 
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Thiebaultnicolas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=1A1D21"/>
@@ -113,7 +117,9 @@ Back-End
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiebaultnicolas&layout=compact&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=1A1D21"/>
 
 </div>
+<br>
 
+----------------
 
 
 
