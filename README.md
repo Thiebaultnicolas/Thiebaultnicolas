@@ -34,7 +34,7 @@ pour la technologie React. :computer:</p>
 &nbsp;
 
 ----------------
-<img align="left" src="https://github.com/Thiebaultnicolas/Thiebaultnicolas/blob/main/nico%202.png" width="25%">
+<img align="left" src="https://github.com/Thiebaultnicolas/Thiebaultnicolas/blob/main/nico%203.png" width="35%">
 
 &nbsp;
 
@@ -56,6 +56,33 @@ React compétent et efficace. :open_book:</p>
 &nbsp;
 
 ----------------
+
+<h1 align="center">
+ <span style="font-family: 'Delicious Handdrawn', cursive;"> Courage, c'est bientôt fini! :upside_down_face:</span>
+</h1>
+
+<img align="left" src="https://github.com/Thiebaultnicolas/Thiebaultnicolas/blob/main/nico%202.png" width="25%">
+
+<br>
+<br>
+<br>
+<p>Mes hobbies dans la vie sont aussi nombreux que les épisodes de Naruto !<br>
+ 
+J'adore les animés, la lecture, les randonnées en Ariège (parce que faut bien <br>
+se dépenser après toutes ces heures passées sur mon ordi à programmer,jouer à des <br>
+jeux vidéo ou à explorer le web).<br>
+ 
+D'ailleurs, c'est ma passion pour l'univers du web qui m'a fait me lancer dans le développement web.<br>
+Je suis un vrai geek, mais pas celui qui ne voit jamais la lumière du jour, plutôt celui qui sait comment<br>
+allier les plaisirs de la vie à la technologie !</p>
+<br>
+<br>
+<br>
+
+
+----------------
+&nbsp;
+
 
 <div align="center">
 
