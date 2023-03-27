@@ -82,8 +82,10 @@ allier les plaisirs de la vie à la technologie ! :joystick:</p>
 
 
 ----------------
-&nbsp;
 
+<p align="center">
+ <img  src="https://github.com/Thiebaultnicolas/Thiebaultnicolas/blob/main/nico%202.png" width="25%">
+</p>
 
 <div align="center">
 
