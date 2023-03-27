@@ -72,10 +72,10 @@ J'adore les animés, la lecture, les randonnées en Ariège (parce que faut bien
 se dépenser après toutes ces heures passées sur mon ordi à programmer,jouer à des <br>
 jeux vidéo ou à explorer le web). :sunglasses:<br>
  
-D'ailleurs, c'est ma passion pour l'univers du web qui m'a fait me lancer dans le développement web.<br>
+D'ailleurs, c'est ma passion pour l'univers du web qui m'a fait me lancer dans le développement web. :bulb:<br>
  
 Je suis un vrai geek, mais pas celui qui ne voit jamais la lumière du jour, plutôt celui qui sait comment
-allier les plaisirs de la vie à la technologie ! :bulb:</p>
+allier les plaisirs de la vie à la technologie ! :joystick:</p>
 <br>
 <br>
 <br>
