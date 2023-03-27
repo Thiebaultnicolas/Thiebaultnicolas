@@ -1,7 +1,7 @@
 
-<h1 align="center">
+<h3 align="center">
  <span style="font-family: 'Delicious Handdrawn', cursive;"> Bienvenue dans la faille du développeur... :space_invader:</span>
-</h1>
+</h3>
 
 
  ``` 
@@ -57,9 +57,9 @@ React compétent et efficace. :open_book:</p>
 
 ----------------
 
-<h1 align="center">
+<h3 align="center">
  <span style="font-family: 'Delicious Handdrawn', cursive;"> Courage, c'est bientôt fini! :upside_down_face:</span>
-</h1>
+</h3>
 
 <img align="left" src="https://github.com/Thiebaultnicolas/Thiebaultnicolas/blob/main/nico%202.png" width="25%">
 
