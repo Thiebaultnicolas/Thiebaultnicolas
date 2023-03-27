@@ -66,15 +66,15 @@ React compétent et efficace. :open_book:</p>
 <br>
 <br>
 <br>
-<p>Mes hobbies dans la vie sont aussi nombreux que les épisodes de Naruto !<br>
+<p>Mes hobbies dans la vie sont aussi nombreux que les épisodes de Naruto ! :fish_cake:<br>
  
 J'adore les animés, la lecture, les randonnées en Ariège (parce que faut bien <br>
 se dépenser après toutes ces heures passées sur mon ordi à programmer,jouer à des <br>
-jeux vidéo ou à explorer le web).<br>
+jeux vidéo ou à explorer le web). :sunglasses:<br>
  
 D'ailleurs, c'est ma passion pour l'univers du web qui m'a fait me lancer dans le développement web.<br>
 Je suis un vrai geek, mais pas celui qui ne voit jamais la lumière du jour, plutôt celui qui sait comment<br>
-allier les plaisirs de la vie à la technologie !</p>
+allier les plaisirs de la vie à la technologie ! :bulb:</p>
 <br>
 <br>
 <br>
