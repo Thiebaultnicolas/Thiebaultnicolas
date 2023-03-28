@@ -86,7 +86,7 @@ allier les plaisirs de la vie à la technologie ! :joystick:</p>
  Des stacks sont apparus ! :hammer_and_wrench: 
 </h3>
 <p align="center">
- <img  src="https://github.com/Thiebaultnicolas/Thiebaultnicolas/blob/main/nico%202.png" width="25%">
+ <img  src="https://github.com/Thiebaultnicolas/Thiebaultnicolas/blob/main/nico%20ep%C3%A9e%20bas2.png" width="25%">
 </p>
 
 <p align="center">
