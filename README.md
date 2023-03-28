@@ -144,23 +144,23 @@ Back-End
 
 <div align="center">
  
-<a href="mailto:nicolasthiebault.dev@outlook.fr">
+<a href="mailto:nicolasthiebault.dev@outlook.fr"  target="_blank">
 <img src="https://github.com/Thiebaultnicolas/Thiebaultnicolas/blob/main/email.svg" width="10%">
 </a>
  
-<a href="https://discord.gg/rfdZ3NfjCE">
+<a href="https://discord.gg/rfdZ3NfjCE" target="_blank">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="11%">
 </a>
  
-<a href="https://www.facebook.com/nicolas.thiebault.12/">
+<a href="https://www.facebook.com/nicolas.thiebault.12/"  target="_blank">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="12%">
 </a>
  
-<a href="https://www.linkedin.com/in/nicolas-thiebault-b05421237/">
+<a href="https://www.linkedin.com/in/nicolas-thiebault-b05421237/"  target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="11.5%">
 </a>
  
-<a href="https://www.twitch.tv/kasokashi">
+<a href="https://www.twitch.tv/kasokashi"  target="_blank">
 <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" width="10%">
 </a>
  
