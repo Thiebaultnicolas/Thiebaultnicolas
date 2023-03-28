@@ -143,10 +143,9 @@ Back-End
 <br>
 
 <div align="center">
-<p> 
-<a href="nicolasthiebault.dev@outlook.fr">
+<a href="mailto:nicolasthiebault.dev@outlook.fr">
 <img src="https://github.com/Thiebaultnicolas/Thiebaultnicolas/blob/main/email.svg" width="10%">
-</a></p>
+</a>
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="11%">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="12%">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="11.5%">
