@@ -143,7 +143,7 @@ Back-End
 <br>
 
 <div align="center">
-<a href="nicolasthiebault.dev@outlook.fr?subject=Bonjour">
+<a href="nicolasthiebault.dev@outlook.fr">
 <img src="https://github.com/Thiebaultnicolas/Thiebaultnicolas/blob/main/email.svg" width="10%">
 </a>
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="10%">
