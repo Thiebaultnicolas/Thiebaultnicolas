@@ -61,8 +61,8 @@ React compétent et efficace. :open_book:</p>
  <span style="font-family: 'Delicious Handdrawn', cursive;"> Courage, c'est bientôt fini! :upside_down_face:</span>
 </h3>
 
-<img align="left" src="https://github.com/Thiebaultnicolas/Thiebaultnicolas/blob/main/nico%20livre.png" width="25%">
-
+<img align="left" src="https://github.com/Thiebaultnicolas/Thiebaultnicolas/blob/main/nico%20livre.png" width="28%">
+<br>
 <br>
 <br>
 <br>
