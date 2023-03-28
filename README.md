@@ -152,7 +152,7 @@ Back-End
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="11%">
 </a>
  
-<a href="https://www.facebook.com/nicolas.thiebault.12/"  target="_blank">
+<a href="https://www.facebook.com/nicolas.thiebault.12/"  target="blank">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="12%">
 </a>
  
