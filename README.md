@@ -89,11 +89,11 @@ allier les plaisirs de la vie à la technologie ! :joystick:</p>
  <img  src="https://github.com/Thiebaultnicolas/Thiebaultnicolas/blob/main/nico%20ep%C3%A9e%20bas2.png" width="25%">
 </p>
 
-<p align="center">
+<h4 align="center">
 Front-End
 <img src="https://github.com/Thiebaultnicolas/Thiebaultnicolas/blob/main/espacement3.png" width="23%">
 Back-End
-</p>
+</h4>
 
 <div align="center">
 
